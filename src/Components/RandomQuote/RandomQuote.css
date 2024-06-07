@@ -1,0 +1,154 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 1rem;
+    width: 800px;
+    border-radius: 15px;
+    border-color: white;
+    border-style: solid;
+}
+
+.quote {
+    padding: 60px 110px;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+.line {
+    width: 700px;
+    height: 1.5px;
+    background: white;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0px;
+}
+
+.author {
+    color: #6c757d;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.icons {
+    display: flex;
+    gap: 40px;
+}
+
+.icon-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.icons img {
+    cursor: pointer;
+    height: 36px;
+}
+
+.logo {
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.2);
+}
+
+.tooltip {
+    visibility: hidden;
+    width: 120px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 120%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.icon-wrapper:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.favorites {
+    margin: 0 50px 50px 50px;
+    width: 700px;
+}
+
+.favorites h2 {
+    color: white;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.favorite {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.divider {
+    border: 1px solid white;
+    margin: 0;
+    max-width: 700px;
+}
+
+.fav-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.fav-author {
+    color: #6c757d;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.remove-icon-wrapper {
+    position: relative;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.remove-all-icon-wrapper {
+    position: relative;
+    display: inline-block;
+    margin-left: 645px;
+    margin-top: 1rem;
+}
+
+.remove-icon-wrapper:hover .tooltip,
+.remove-all-icon-wrapper:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.remove-icon,
+.remove-all-icon {
+    height: 36px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.remove-icon:hover,
+.remove-all-icon:hover {
+    transform: scale(1.2);
+}
