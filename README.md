@@ -1,3 +1,11 @@
+# Quotopia
+Quotopia berasal dari kata "quote" yang berarti kutipan atau ucapan yang mengandung makna, dan "utopia" yang memiliki arti tempat atau kondisi yang ideal dan sempurna. Gabungan kata "quote" dan "utopia" mencerminkan visi platform ini sebagai sebuah tempat yang menghadirkan kutipan-kutipan inspiratif dan bermakna, di mana pengguna dapat menemukan kutipan yang sesuai dengan berbagai kategori seperti kebijaksanaan, humor, cinta, kehidupan, dan kesuksesan. Jika Anda mencari inspirasi harian, kata-kata untuk meningkatkan suasana hati, atau wawasan mendalam untuk dibagikan, Quotopia menawarkan pengalaman yang lancar dan menarik. Temukan kutipan sempurna untuk setiap momen dan bagikan kebijaksanaan tersebut dengan teman dan orang-orang terkasih melalui antarmuka yang ramah pengguna. Selamat datang di Quotopia – di mana setiap kutipan menemukan tempat yang sempurna.
+
+# Quotopia
+Quotopia derives from the words "quote" referring to a meaningful or significant statement, and "utopia" denoting an ideal and perfect place or condition. The combination of "quote" and "utopia" reflects its vision as a platform that delivers an infinite stream of inspiring and meaningful quotes, where users can find quotes that fit into various categories such as wisdom, humor, love, life, and success. If you’re seeking a daily dose of inspiration, words to uplift your mood, or profound insights to share, Quotopia offers a seamless and engaging experience. Find the perfect quote for every moment and share that wisdom with your friends and loved ones through our user-friendly interface. Welcome to Quotopia – where every quote finds its perfect place.
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
