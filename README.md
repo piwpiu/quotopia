@@ -4,6 +4,9 @@ Quotopia berasal dari kata "quote" yang berarti kutipan atau ucapan yang mengand
 # Quotopia
 Quotopia derives from the words "quote" referring to a meaningful or significant statement, and "utopia" denoting an ideal and perfect place or condition. The combination of "quote" and "utopia" reflects its vision as a platform that delivers an infinite stream of inspiring and meaningful quotes, where users can find quotes that fit into various categories such as wisdom, humor, love, life, and success. If you’re seeking a daily dose of inspiration, words to uplift your mood, or profound insights to share, Quotopia offers a seamless and engaging experience. Find the perfect quote for every moment and share that wisdom with your friends and loved ones through our user-friendly interface. Welcome to Quotopia – where every quote finds its perfect place.
 
+![image](https://github.com/piwpiu/quotopia/assets/151887254/e09595fd-9aec-480c-88cb-177a0a721292)
+![image](https://github.com/piwpiu/quotopia/assets/151887254/117d0fb9-43d0-41ef-88a2-c926578df1b9)
+
 <hr>
 
 # Getting Started with Create React App
